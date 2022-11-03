@@ -1,0 +1,70 @@
+/*navbar*/
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+.logo {
+    width: 10%;
+    padding: 0%;
+    vertical-align: middle;
+}
+.nav p {
+    display: flex;
+}
+.nav {
+    width: 100%;
+    padding: .2%;
+    background-color: rgba(115, 201, 255, 0.059);
+}
+.nav ul{
+    width: 100%;
+    margin-left: 280%;
+}
+.nav li {
+    margin-left: 30px;
+}
+/*hero image*/
+.heroimg {
+    height: 600px;
+    padding: 25%;
+}
+.content img {
+    margin: 0 auto;
+}
+.center {
+    display: block;
+    margin: 0 auto;
+}
+.content {
+    width: 50%;
+    margin: 0 auto;
+    background: rgba(115, 201, 255, 0.059);
+    padding: 20px;
+}
+.content p {
+    text-align: center;
+}
+.content button {
+    display: block;
+    margin: 0 auto;   
+}
+
+/*footer*/
+.footer {
+    background-color:rgba(135, 206, 250, 0.196);
+    padding: 1px 0px;
+}
+.footer ul {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 20px 30px;
+}
+.footer li {
+    margin-right: 50px;
+}
+.footer p {
+    vertical-align: middle;
+    position: absolute;
+    padding: 20px;
+    margin-left: 200px;
+}
